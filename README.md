@@ -5,4 +5,4 @@ This project uses Deep learning (Using Affectiva SDK) to do emotional analysis b
 Based on the emotional analysis system decides , whether the person is a human or a Robot.
 
 #######
-ALl the code is in the Assets folder.
+ALL the code is in the Assets folder.
